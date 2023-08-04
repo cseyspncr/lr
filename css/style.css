@@ -1,0 +1,29 @@
+body {
+    background-color: cornflowerblue;
+    color: darkslateblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color:teal;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+p {
+    color: violet;
+}
+
+section {
+    color: plum;
+}
+
+footer {
+    color:chocolate
+}
